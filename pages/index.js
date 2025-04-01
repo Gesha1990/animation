@@ -7,6 +7,7 @@ let links = [
   { path: "/carousel", label: "Carousel" },
   { path: "/resizable-panel", label: "Resizable panel" },
   { path: "/calendar", label: "Calendar" },
+  { path: "/lesson-1", label: "Lesson 1" },
 ];
 
 export default function HomePage() {
